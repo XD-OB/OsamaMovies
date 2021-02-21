@@ -1,6 +1,6 @@
 # OsamaMovies
 
-A Small application that search and lists movies and series, Using the OMDb API, created with Vue.js using the Test Driven Dev technique and tested with Jest.
+A Small application that search and lists movies and series, Using the OMDb API, created with **Vue.js** using the Test Driven Dev (**TDD**) technique and tested with Jest.
 
 ## Prerequisites
 
@@ -60,3 +60,14 @@ yarn lint
 
 #### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+## Owner
+
+- Oussama Belouche 1337
+
+#
+[![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com)
+
+[![forthebadge](https://forthebadge.com/images/badges/as-seen-on-tv.svg)](https://forthebadge.com)
+
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
