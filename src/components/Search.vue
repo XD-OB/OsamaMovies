@@ -10,7 +10,7 @@
 
 <script>
 import axios from 'axios'
-const BASE_URL = `http://www.omdbapi.com/?i=tt3896198&apikey=${process.env.VUE_APP_OMDB_KEY}`
+const BASE_URL = `http://www.omdbapi.com/?i=tt3896198&apikey=9e7abf80`
 export default {
   name: 'search',
   data () {
